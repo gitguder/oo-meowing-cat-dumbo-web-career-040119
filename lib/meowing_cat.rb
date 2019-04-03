@@ -1,4 +1,4 @@
 ## code your solution here. 
-class catch
+class Cat
   
 end
